@@ -1,2 +1,2 @@
 # What-should-I-do-to-help-the-planet-
-A mini-game designed to help people determine what they can change in their lives to slow down global warming.
+A mini-game designed to help people determine what they can change in their lives to slow down global warming. Every day you are offered 3 ideas of what can be limited or changed in the life of the hero of the game to reduce the harm to the planet, depending on the choice, the character's characteristics decrease or increase. Goal: to live through 10 days of changes in order to achieve the best results.
